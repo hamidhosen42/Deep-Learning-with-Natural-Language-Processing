@@ -14,10 +14,10 @@
 
    4. Self-Aware
 
-- Types of AI (based on technology):
+-- Types of AI (based on technology):
 
-1. Artificial Narrow Intelligence (ANI)
+   1. Artificial Narrow Intelligence (ANI)
 
-2. Artificial General Intelligence (AGI)
+   2. Artificial General Intelligence (AGI)
 
-3. Artificial Super Intelligence (ASI)
+   3. Artificial Super Intelligence (ASI)
