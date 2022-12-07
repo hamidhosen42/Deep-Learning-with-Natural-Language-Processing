@@ -14,10 +14,13 @@
 
    4. Self-Aware
 
--- Types of AI (based on technology):
+- Types of AI (based on technology):
 
    1. Artificial Narrow Intelligence (ANI)
 
    2. Artificial General Intelligence (AGI)
-
    3. Artificial Super Intelligence (ASI)
+
+## What is Deep Learning
+
+- Deep learning is a subset of AI's machine learning. Artificial intelligence lets computers replicate human behavior. Machine learning uses data-trained algorithms to do all this. Deep learning is inspired by the human brain's structure.
