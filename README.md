@@ -6,13 +6,13 @@
 
 - Types of AI (based on functionality):
 
-1. Reactive Machines
+   1. Reactive Machines
 
-2. Limited Memory
+   2. Limited Memory
 
-3. Theory of Mind
+   3. Theory of Mind
 
-4. Self-Aware
+   4. Self-Aware
 
 - Types of AI (based on technology):
 
